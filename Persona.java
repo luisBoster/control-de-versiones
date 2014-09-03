@@ -1,6 +1,6 @@
 public class Persona{
 	string nombre;
-	String apellido;
+	String paterno;
 	ind edad;
 	String curp;
 	
